@@ -1,0 +1,5 @@
+estimate b1 shape from T1 data, such that average over amplitude of all B1 in the brain is equal to 1?
+instead of using flat, use this approx
+compare between IR and VFA
+
+then compare with measured B1

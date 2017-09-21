@@ -1,0 +1,4 @@
+To adjust counter the effect of a change in delta(B1), a linear combination change of all other parameters
+must be done with varying weights. Can we assume that these weights are proportional (actually, inversely proportional?)
+to the sensitivities for the set of mt measurements (they would, wouldn't they, be for a single measurement).
+Something of the sorts
